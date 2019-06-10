@@ -1,5 +1,5 @@
 .location__logo {
-    top: 20px;
+    top: 20px !important;
 }
 
 .location__logo img {
@@ -8,6 +8,6 @@
 }
 
 #location > .main-container {
-    min-height: 150px;
+    min-height: 150px !important;
 }
 
