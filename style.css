@@ -1,0 +1,13 @@
+.location__logo {
+    top: 20px;
+}
+
+.location__logo img {
+    width: 100%;
+    height: auto;
+}
+
+#location > .main-container {
+    min-height: 150px;
+}
+
